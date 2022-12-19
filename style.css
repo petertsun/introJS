@@ -1,3 +1,35 @@
+
+
+#gray {
+    background-color: lightgray;
+}
+
+#red {
+    color: red;
+}
+
+#green {
+    color: green;
+}
+
+#blue {
+    color: blue;
+}
+
+#orange {
+    color: orange;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
 .pink-bg {
     background-color: pink;
 }
@@ -13,3 +45,4 @@
 .light-padding {
     padding: 20px;
 }
+
